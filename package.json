@@ -1,0 +1,23 @@
+{
+  "name": "hedera-developer-foundation",
+  "version": "1.0.0",
+  "description": "Hedera labs for developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pathornteng/hedera-devleoper-foundation.git"
+  },
+  "author": "Pathorn Tengkiattrakul",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pathornteng/hedera-devleoper-foundation/issues"
+  },
+  "homepage": "https://github.com/pathornteng/hedera-devleoper-foundation#readme",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.19.2",
+    "dotenv": "^16.0.3"
+  }
+}
