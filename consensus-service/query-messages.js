@@ -15,7 +15,6 @@ const operatorId = AccountId.fromString(process.env.MY_ACCOUNT_ID);
 const operatorKey = PrivateKey.fromString(process.env.MY_PRIVATE_KEY);
 
 // Build Hedera testnet and mirror node client
-// Build Hedera testnet and mirror node client
 const client = Client.forTestnet();
 
 // Set the operator account ID and operator private key
