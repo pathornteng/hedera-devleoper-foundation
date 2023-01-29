@@ -4,7 +4,6 @@ const {
   PrivateKey,
   Client,
   TransferTransaction,
-  AccountBalanceQuery,
   TokenNftInfoQuery,
   TokenId,
   NftId,
