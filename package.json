@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/pathornteng/hedera-devleoper-foundation#readme",
   "dependencies": {
-    "@hashgraph/sdk": "^2.19.2",
+    "@hashgraph/sdk": "^2.24.0",
     "dotenv": "^16.0.3"
   }
 }
